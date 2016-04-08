@@ -110,7 +110,8 @@
     - [19 求两棵树是否相同](#19-求两棵树是否相同)
     - [20 前序中序求后序](#20-前序中序求后序)
     - [21 单链表逆置](#21-单链表逆置)
-
+- [linux系统](#linux系统)
+    - [内核态和用户态](#内核态和用户态)
 <!-- markdown-toc end -->
 
 # Python语言特性
@@ -1367,3 +1368,6 @@ while root:
     print root.data
     root = root.next
 ```
+# linux系统
+## 用户态和内核态
+        参考：http://blog.csdn.net/xifeijian/article/details/9080895
